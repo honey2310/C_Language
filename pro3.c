@@ -73,3 +73,51 @@
 
 //     printf("Perimeter of circle is %.2f", perimeter);
 // }
+
+
+//1. WAP to Swap two variables (with sing third variable).
+// #include<stdio.h>
+
+// void main(){
+//     int a,b;
+//     printf("enter a:");
+//     scanf("%d",&a);
+    
+//      printf("enter b:");
+//     scanf("%d",&b);
+    
+//     int c=a;
+    
+//     a=b;
+//     b=c;
+    
+//     printf("a=%d\n",a);
+//     printf("b=%d",b);
+// }
+
+//2.WAP to Swap two variables (without using third variable)
+
+// #include<stdio.h>
+
+// void main(){
+//     int a,b;
+    
+//     printf("enter a:");
+//     scanf("%d",&a);
+    
+//     printf("enter b:");
+//     scanf("%d",&b);
+    
+//     a=a+b;// a=30
+//     b=a-b;// b=10
+//     a=a-b;// a=20
+    
+//     printf("a=%d\n",a);
+//     printf("b=%d",b);
+// }
+
+
+
+
+
+
