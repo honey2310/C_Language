@@ -15,3 +15,8 @@ int main() {
             count++;
         }
     }
+
+    printf("Number of digits = %d\n", count);
+
+    return 0;
+}
